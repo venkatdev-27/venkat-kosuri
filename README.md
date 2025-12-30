@@ -1,5 +1,5 @@
 
- <<h1 align="center">Veera Venkata Satyanarayana</h1>
+ <h1 align="center">Veera Venkata Satyanarayana</h1>
 <h3 align="center">MERN Full Stack Trainer | Full Stack Developer</h3>
 
 <h2 align="center">About Me</h2>
